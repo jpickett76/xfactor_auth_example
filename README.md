@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# xfactor_auth_example
+Example of using devise_xfactor_authentication gem
+>>>>>>> 506f1989a38bd06808ef8eb7af39c22eeb105c94
